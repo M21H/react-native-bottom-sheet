@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "android": "react-native run-android",
-    "ios": "react-native run-ios",
+    "ios": "react-native run-ios --simulator='iPhone 15 Pro'",
     "start": "react-native start",
     "postinstall": "npx patch-package"
   },
@@ -20,6 +20,7 @@
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/native-stack": "^6.2.5",
     "@react-navigation/stack": "^6.0.11",
+    "deprecated-react-native-prop-types": "^5.0.0",
     "faker": "^4.1.0",
     "nanoid": "^3.3.3",
     "react": "18.0.0",

@@ -306,7 +306,7 @@ PODS:
     - React
   - react-native-maps (0.30.2):
     - React-Core
-  - react-native-pager-view (5.4.24):
+  - react-native-pager-view (5.4.25):
     - React-Core
   - react-native-safe-area-context (4.2.4):
     - RCT-Folly
@@ -382,9 +382,9 @@ PODS:
     - React-perflogger (= 0.69.4)
   - RNCMaskedView (0.1.11):
     - React
-  - RNGestureHandler (2.5.0):
+  - RNGestureHandler (2.18.0):
     - React-Core
-  - RNReanimated (2.9.1):
+  - RNReanimated (2.17.0):
     - DoubleConversion
     - FBLazyVector
     - FBReactNativeSpec
@@ -411,7 +411,7 @@ PODS:
     - React-RCTText
     - ReactCommon/turbomodule/core
     - Yoga
-  - RNScreens (3.15.0):
+  - RNScreens (3.32.0):
     - React-Core
     - React-RCTImage
   - SocketRocket (0.6.0)
@@ -618,7 +618,7 @@ SPEC CHECKSUMS:
   React: 482cd1ba23c471be1aed3800180be2427418d7be
   React-bridging: c2ea4fed6fe4ed27c12fd71e88b5d5d3da107fde
   React-callinvoker: d4d1f98163fb5e35545e910415ef6c04796bb188
-  React-Codegen: ff35fb9c7f6ec2ed34fb6de2e1099d88dfb25f2f
+  React-Codegen: 9cb8451d5b81b95b961e7ba7188efa09c3fbfc83
   React-Core: 4d3443a45b67c71d74d7243ddde9569d1e4f4fad
   React-CoreModules: 70be25399366b5632ab18ecf6fe444a8165a7bea
   React-cxxreact: 822d3794fc0bf206f4691592f90e086dd4f92228
@@ -629,7 +629,7 @@ SPEC CHECKSUMS:
   React-logger: 1088859f145b8f6dd0d3ed051a647ef0e3e80fad
   react-native-blur: cad4d93b364f91e7b7931b3fa935455487e5c33c
   react-native-maps: df7b9fca1b1c8d356fadbf5b8a63a5f8cf32fc73
-  react-native-pager-view: 95d0418c3c74279840abec6926653d32447bafb6
+  react-native-pager-view: da490aa1f902c9a5aeecf0909cc975ad0e92e53e
   react-native-safe-area-context: f98b0b16d1546d208fc293b4661e3f81a895afd9
   React-perflogger: cb386fd44c97ec7f8199c04c12b22066b0f2e1e0
   React-RCTActionSheet: f803a85e46cf5b4066c2ac5e122447f918e9c6e5
@@ -644,13 +644,13 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 61ee22a8cdf8b6bb2a7fb7b4ba2cc763e5285196
   ReactCommon: 8f67bd7e0a6afade0f20718f859dc8c2275f2e83
   RNCMaskedView: 0e1bc4bfa8365eba5fbbb71e07fbdc0555249489
-  RNGestureHandler: bad495418bcbd3ab47017a38d93d290ebd406f50
-  RNReanimated: 2cf7451318bb9cc430abeec8d67693f9cf4e039c
-  RNScreens: 4a1af06327774490d97342c00aee0c2bafb497b7
+  RNGestureHandler: 4146181a1243ce3a32f038ef63b5e9d260c66e0d
+  RNReanimated: c6f8f70e96dd6ca21b65aef9b3e4efe4965db905
+  RNScreens: afdbd43bcd6c81559917054da18ad101b4395000
   SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
   Yoga: ff994563b2fd98c982ca58e8cd9db2cdaf4dda74
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
 PODFILE CHECKSUM: dbde815ade4cf26d43484f189e9bc934f65a6c92
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.15.2
